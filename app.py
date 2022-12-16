@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.preprocesing import StandardScaler
+from sklearn.preprocessing import StandardScaler
 import pickle
 st.title('medical diagnosis web app')
 
